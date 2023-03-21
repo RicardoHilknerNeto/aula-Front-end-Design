@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+.cabecalho td{
+    text-align: center;
+    background-color:#C1C1C1;
+}
+
+td{
+    padding: 2.5px;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+}
